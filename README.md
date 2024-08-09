@@ -128,4 +128,4 @@ function validarEmail(email) {
 - GitHub
  
 ## Autores 👥
-- [Seu Nome](
+- [Dafilla Mendes](https://github.com/mendesdafilla/login-card)
