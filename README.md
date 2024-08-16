@@ -13,7 +13,7 @@ Este projeto consiste na criação de um sistema de cadastro de usuários que pe
 ## Introdução ✉️
 O projeto foi desenvolvido para praticar habilidades de desenvolvimento web, incluindo manipulação de DOM com JavaScript e validação de dados de entrada. A atualização recente inclui a adição de uma validação no campo de e-mail, aprimorando a integridade dos dados cadastrados pelos usuários. Além disso, o sistema agora conta com uma validação geral para garantir que todos os campos obrigatórios, como nome e e-mail, sejam preenchidos antes de permitir o cadastro.
  
-<img src="print 123.png">
+<img src="img.jpeg">
  
 ## Funcionalidades 🧠
  
